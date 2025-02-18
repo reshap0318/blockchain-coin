@@ -1,4 +1,4 @@
-# Project - Voting Blockchain
+# Project - Coin Blockchain
 
 ## Aplikasi yang Dibutuhkan
 - NodeJS : 20.14.0
